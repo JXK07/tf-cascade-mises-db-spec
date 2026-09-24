@@ -1,0 +1,4 @@
+case_id,point_type,Sinl,incidence_deg,omega,double_loss_target,double_loss_status,interpolated,Wmax,wmax_quality_status
+r7_span010_p110_M0p2,minimum_loss,2.02565,-4.000016853404404,0.02184,0.04368,,false,0.249,surface_selected_location_not_audited
+r7_span010_p110_M0p2,double_loss_left,1.6292875650950036,-9.271603614264984,0.04368,0.04368,reached,true,0.265759781843772,
+r7_span010_p110_M0p2,double_loss_right,2.563569696969697,0.9642765920223356,0.04368,0.04368,reached,true,0.2888212121212121,

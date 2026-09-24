@@ -1,0 +1,2 @@
+design_id,sampling_method,sample_index,x_t,t_max_over_c,x_c,camber_max_over_c,betac_le_deg,betac_te_deg,gamma_deg,chord_m,solidity,mises_reference_length_m,valid,geometry_file,parameterization,baseline
+r7_span010_p110,maximin,109,0.4092945119693211,0.1056948308671574,0.5382378931986378,0.076645179,14.883623619219906,9.997244772272492,49.39899967,0.026657186,1.4289700484596772,0.02808615,TRUE,/Users/jiaxinkai/codexk/lossModel/para/rotor25_sampling_128_global/samples/r7_span010/r7_span010_p110/blade.r7_span010_p110,BP3333,r7_span010
